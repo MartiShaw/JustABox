@@ -4,21 +4,25 @@
 }
 
 h1 {
-    color: saddlebrown
+    color: saddlebrown;
 }
 
 h2 {
-    color: lime
+    color: lime;
 }
 
 p {
-    color: deepskyblue
+    color: deepskyblue;
 }
 
 ul {
-    color: springgreen
+    color: springgreen;
 }
 
 li {
-    color: springgreen
+    color: springgreen;
+}
+
+h3 {
+    color: lime;
 }
