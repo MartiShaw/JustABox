@@ -1,34 +1,4 @@
-h2 {
-    color: lime;
+.jumbotron
+{
+    background: url(../img/recycle-inside-banner.jpg);
 }
-
-h1 {
-    color: saddlebrown;
-}
-
-p {
-    color: deepskyblue;
-}
-
-li {
-    color: darkblue
-}
-/* ==========================================================================
-   Author's custom styles
-   ========================================================================== */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
