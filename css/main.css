@@ -1,14 +1,9 @@
-h1 {
-    color: deepskyblue;
+.jumbotron
+{
+    color: darkslategrey
 }
 
-h2 {
-    color: lime;
-}
 
-p {
-    style-font: italics
-}
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
