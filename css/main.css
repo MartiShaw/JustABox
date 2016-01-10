@@ -1,9 +1,14 @@
-.div class=jumbotron
-{
-    color: darkslategrey
+h2 {
+    color: lime;
 }
 
+h1 {
+    color: saddlebrown;
+}
 
+p {
+    color: deepskyblue;
+}
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
